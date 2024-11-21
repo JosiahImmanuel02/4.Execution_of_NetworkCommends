@@ -27,7 +27,6 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-```
 ## OUTPUT
 ## Ping command
 ## Client
